@@ -1,0 +1,5 @@
+zdharma/fast-syntax-highlighting
+zsh-users/zsh-autosuggestions
+marzocchi/zsh-notify
+buonomo/yarn-completion
+denysdovhan/spaceship-prompt
